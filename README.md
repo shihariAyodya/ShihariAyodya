@@ -2,15 +2,15 @@
 
 
 🎓 Undergraduate in Information Systems at Sabaragamuwa University of Sri Lanka  
-💻 Currently learning **HTML, CSS, and Java**  
+💻 Currently learning **HTML, CSS, ReactJS, Python**  
 🧵 Running my own **Crochet Fashion Brand** and planning to expand it into an online store  
-🌱 Passionate about **Web Development** and excited to keep learning  
+🌱 Passionate about **Web Development and Data Analysis** and excited to keep learning  
 
 --
 
 ## 🚀 Skills (So far)
 - 🌐 Web: HTML, CSS, JavaScript (basics) 
-- ☕ Programming: Java (basics), C (basics)
+- ☕ Programming: Java , C , Python
 - 🛠 Tools: Figma, Canva
 
   ## 📌 My Projects
@@ -21,11 +21,11 @@
 ---
 
 ## 📖 Currently Learning
-- ✅ HTML & CSS basics  
-- ✅ Java basics  
-- ✅ C programming basics  
-- ✅ JavaScript basics  
-- 🚀 Next: Expanding my crochet website and practicing more web development  
+- ✅ ReactJs
+- ✅ TailwindCSS
+- ✅ Python
+- ✅ MySQL
+- 🚀 Next: Expanding my crochet website , practicing more web development and learn more data analisis lessons and tools.  
 
 ---
 
