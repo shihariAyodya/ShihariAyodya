@@ -11,7 +11,7 @@
 ## 🚀 Skills (So far)
 - 🌐 Web: HTML, CSS, JavaScript (basics) 
 - ☕ Programming: Java , C , Python
-- 🛠 Tools: Figma, Canva
+- 🛠 Tools: Figma, Canva, PowerBI
 
   ## 📌 My Projects
 - 🧶 [Crochet Web Page](https://github.com/shihariAyodya/simple-webpage-for-crochet) – a simple website for my crochet brand (still improving ✨)  
