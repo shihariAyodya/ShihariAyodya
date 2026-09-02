@@ -9,17 +9,17 @@
 --
 
 ## 🚀 Skills (So far)
-- 🌐 Web: HTML, CSS, JavaScript (basics), ReactJS
+- 🌐 Web: HTML, CSS, JavaScript, ReactJS
 - ☕ Programming: Java , C , Python
-- 🛠 Tools: Figma, Canva, PowerBI, GoogleColab
+- 🛠 Tools: Figma, Canva, Power BI, Google Colab
 
   ## 📌 My Projects
-- 🎓 [Scholar Track](https://github.com/PraneepaTharushini/Scholar_Track.git) – full-stack student task management app (React, Flask, PostgreSQL) *(ongoing)*
+- 🎓 [Scholar Track](https://github.com/PraneepaTharushini/Scholar_Track.git) – full-stack student task management app (React, Flask, PostgreSQL)
+- - 🐾 [PetCare.lk](https://github.com/shihariAyodya/pet-care-platform.git)– comprehensive full-stack pet care platform featuring adoption services, a lost-and-found registry, and a veterinary directory (React.js frontend, backend planning in progress) *(ongoing)*
 - 📊 [Retail Sales Dashboard](https://github.com/shihariAyodya/retail-analysis-powerbi.git) – interactive Power BI dashboard analyzing retail store performance *(ongoing)*
 - 🍕 [Pizza Sales Dashboard](https://github.com/shihariAyodya/data-analyst-portfolio.git) – Power BI dashboard visualizing pizza sales trends, revenue, and product performance
-- 🧶 [Crochet Web Page](https://github.com/shihariAyodya/simple-webpage-for-crochet) – a simple website for my crochet brand (still improving ✨)
-- 🐾 [Pet Care Website – First Version](https://github.com/shihariAyodya/pet-website) – my very first complete web page
-- 🐾 [Pet Care Website – Organized Version](https://github.com/shihariAyodya/pet-care-website) – improved and better-structured version of my pet care site
+- 🧮 [Crochet Pricing Calculator](https://github.com/shihariAyodya/crochetcal.html.git) – a tool to calculate fair pricing for crochet items based on materials, time, and labor
+- - 🧶 [Crochet Web Page](https://github.com/shihariAyodya/simple-webpage-for-crochet) – a simple website for my crochet brand (still improving ✨)
 ---
 
 ## 📖 Currently Learning
@@ -27,7 +27,9 @@
 - ✅ TailwindCSS
 - ✅ Python
 - ✅ MySQL
-- 🚀 Next: Expanding my crochet website , practicing more web development and learn more data analisis lessons and tools.  
+- ✅ Power BI
+- ✅ Google Colab
+- 🚀 Next: Expanding my crochet website , practicing more web development and learn more data analysis lessons and tools.  
 
 ---
 
