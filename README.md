@@ -14,9 +14,9 @@
 - 🛠 Tools: Figma, Canva, PowerBI, GoogleColab
 
   ## 📌 My Projects
-- 🎓 [Scholar Track]([https://github.com/shihariAyodya/REPO-NAME](https://github.com/PraneepaTharushini/Scholar_Track.git)) – full-stack student task management app (React, Flask, PostgreSQL) *(ongoing)*
-- 📊 [Retail Sales Dashboard]([https://github.com/shihariAyodya/retail-analysis-powerbi](https://github.com/shihariAyodya/retail-analysis-powerbi.git)) – interactive Power BI dashboard analyzing retail store performance *(ongoing)*
-- 🍕 [Pizza Sales Dashboard]([https://github.com/shihariAyodya/REPO-NAME](https://github.com/shihariAyodya/data-analyst-portfolio.git)) – Power BI dashboard visualizing pizza sales trends, revenue, and product performance
+- 🎓 [Scholar Track](https://github.com/PraneepaTharushini/Scholar_Track.git) – full-stack student task management app (React, Flask, PostgreSQL) *(ongoing)*
+- 📊 [Retail Sales Dashboard](https://github.com/shihariAyodya/retail-analysis-powerbi.git) – interactive Power BI dashboard analyzing retail store performance *(ongoing)*
+- 🍕 [Pizza Sales Dashboard](https://github.com/shihariAyodya/data-analyst-portfolio.git) – Power BI dashboard visualizing pizza sales trends, revenue, and product performance
 - 🧶 [Crochet Web Page](https://github.com/shihariAyodya/simple-webpage-for-crochet) – a simple website for my crochet brand (still improving ✨)
 - 🐾 [Pet Care Website – First Version](https://github.com/shihariAyodya/pet-website) – my very first complete web page
 - 🐾 [Pet Care Website – Organized Version](https://github.com/shihariAyodya/pet-care-website) – improved and better-structured version of my pet care site
