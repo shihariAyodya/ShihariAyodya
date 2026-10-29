@@ -6,14 +6,14 @@
 🧵 Running my own **Crochet Fashion Brand** and planning to expand it into an online store  
 🌱 Passionate about **Web Development and Data Analysis** and excited to keep learning  
 
---
+---
 
 ## 🚀 Skills (So far)
 - 🌐 Web: HTML, CSS, JavaScript, ReactJS
 - ☕ Programming: Java , C , Python
-- 🛠 Tools: Figma, Canva, Power BI, Google Colab
+- 🛠 Tools: Figma, Canva, Power BI, Google Colab, Git & GitHub, Vercel
 
-  ## 📌 My Projects
+## 📌 My Projects
 - 🎓 [Scholar Track](https://github.com/PraneepaTharushini/Scholar_Track.git) – full-stack student task management app (React, Flask, PostgreSQL)
 - 📅 [Daily Planner](https://github.com/shihariAyodya/personal-productivity-planner) – personal productivity web app for planning study hours, crochet time, tasks and internship applications (React, Vite, LocalStorage) · [Live demo](https://personal-productivity-planner-one.vercel.app)
 - 🐾 [PetCare.lk](https://github.com/shihariAyodya/pet-care-platform.git)– comprehensive full-stack pet care platform featuring adoption services, a lost-and-found registry, and a veterinary directory (React.js frontend, backend planning in progress) *(ongoing)*
