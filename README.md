@@ -15,6 +15,7 @@
 
   ## 📌 My Projects
 - 🎓 [Scholar Track](https://github.com/PraneepaTharushini/Scholar_Track.git) – full-stack student task management app (React, Flask, PostgreSQL)
+- - 📅 [Daily Planner](https://github.com/shihariAyodya/personal-productivity-planner) – personal productivity web app for planning study hours, crochet time, tasks and internship applications (React, Vite, LocalStorage) · [Live demo](https://personal-productivity-planner-one.vercel.app)
 - 🐾 [PetCare.lk](https://github.com/shihariAyodya/pet-care-platform.git)– comprehensive full-stack pet care platform featuring adoption services, a lost-and-found registry, and a veterinary directory (React.js frontend, backend planning in progress) *(ongoing)*
 - 📊 [Retail Sales Dashboard](https://github.com/shihariAyodya/retail-analysis-powerbi.git) – interactive Power BI dashboard analyzing retail store performance *(ongoing)*
 - 🍕 [Pizza Sales Dashboard](https://github.com/shihariAyodya/data-analyst-portfolio.git) – Power BI dashboard visualizing pizza sales trends, revenue, and product performance
