@@ -2,7 +2,7 @@
 
 
 🎓 Undergraduate in Information Systems at Sabaragamuwa University of Sri Lanka  
-💻 Currently learning **HTML, CSS, ReactJS, Python**  
+💻 Currently learning **Software Development & Data Analytica**  
 🧵 Running my own **Crochet Fashion Brand** and planning to expand it into an online store  
 🌱 Passionate about **Web Development and Data Analysis** and excited to keep learning  
 
