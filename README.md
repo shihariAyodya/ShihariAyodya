@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Skills (So far)
-- 🌐 Web: HTML, CSS, JavaScript, ReactJS
+- 🌐 Web: HTML, CSS, JavaScript, ReactJS, NextJS, TailwindCSS
 - ☕ Programming: Java , C , Python
 - 🛠 Tools: Figma, Canva, Power BI, Google Colab, Git & GitHub, Vercel
 
